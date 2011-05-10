@@ -1,2 +1,1 @@
-1.6.1pre
-Brian edited the versions.txt file. Test edit and creation.
+1.6.1pre. Back to original text.
