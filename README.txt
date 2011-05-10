@@ -1,1 +1,1 @@
-This is Brian's README, not the one from jQuery's official repo.
+README missing in action without Git's knowledge.
