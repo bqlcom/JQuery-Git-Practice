@@ -1,0 +1,1 @@
+This is Brian's README, not the one from jQuery's official repo.
